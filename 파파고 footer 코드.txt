@@ -1,0 +1,32 @@
+<!-- Footer 부분 -->
+            <footer
+                class="flex justify-around bg-[#fbfbfb] p-4 border-[#eee] border-[1px] dark:bg-slate-800 dark:text-white">
+                <div>
+                    <a href="">
+                        <div class="flex items-center mb-3">
+                            <span class="inline-block bg-[#fff] shadow-lg rounded-md">
+                                <img class="w-8 h-8"
+                                    src="https://papago.naver.com//e3bff6deb50f078fe094f764fac152e8.png" alt="">
+                            </span>
+                            <span class="font-semibold text-sm ml-2">APP Download</span>
+                        </div>
+                    </a>
+                    <ul class="w-72 flex flex-wrap text-xs">
+                        <li class="mr-2">이용약관</li>
+                        <li class="mr-2"><strong>개인정보처리방침</strong></li>
+                        <li class="mr-2"><strong>책임의 한계와 법적고지</strong></li>
+                        <li class="mr-2">고객센터</li>
+                        <li class="mr-2">의견제안</li>
+                        <li class="mr-2">준수사항</li>
+                        <li class="mr-2">품질 개선 동의</li>
+                        <li class="mr-2">단축키</li>
+                        <li class="mr-2"><strong>제휴API 이용문의</strong></li>
+                    </ul>
+                    <a href="" class="text-xs text-gray-500">ⓒ NAVER Corp.</a>
+                </div>
+                <div>
+                    <button class="bg-[#f1f1f1] text-xs text-black font-semibold py-2 px-4 rounded-2xl">
+                        한국어 ↓
+                    </button>
+                </div>
+            </footer>
